@@ -1,4 +1,4 @@
-# Estruturas de dados implementados usando GenServer (Elixir)
+# Estruturas de dados usando GenServer (Elixir)
 
 Ex de como executar:
 ```
